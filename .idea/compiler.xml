@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zuul" />
+        <module name="commons" />
+        <module name="pojo" />
+        <module name="mq-pay" />
+        <module name="feign" />
+        <module name="eureka-server" />
+        <module name="ribbon" />
+        <module name="dao" />
+        <module name="provider" />
+        <module name="alipay" />
+        <module name="email" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.8" />
+      <module name="email_consumer" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="user" target="1.8" />
+      <module name="weixinpay" target="1.8" />
+      <module name="wxpay" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="alipay" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="commons" options="-parameters" />
+      <module name="dao" options="-parameters" />
+      <module name="email" options="-parameters" />
+      <module name="email_consumer" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="feign" options="-parameters" />
+      <module name="mq-pay" options="-parameters" />
+      <module name="pojo" options="-parameters" />
+      <module name="provider" options="-parameters" />
+      <module name="ribbon" options="-parameters" />
+      <module name="springcloud-pro" options="-parameters" />
+      <module name="weixinpay" options="-parameters" />
+      <module name="wxpay" options="-parameters" />
+      <module name="zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

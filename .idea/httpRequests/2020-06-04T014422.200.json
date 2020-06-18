@@ -1,0 +1,29 @@
+{
+  "cmdid": "c05f44b8-6e7d-4607-8c17-8ee5bff2e44e",
+  "errorcode": "0000",
+  "errordesc": "",
+  "msgParsed": "error in 1.1\r\nerror in 2.1\r\nmsg:value is empty,no:2.1,name:StandardMessageIdentifier,value:LDM,format:aaa,row:121 col:0\r\nmsg:value is empty,no:2.1,name:StandardMessageIdentifier,value:LDM,format:aaa,row:121 col:0\r\n",
+  "source": [
+    {
+      "p_msg_type_id": "701",
+      "msg_class": "SITA",
+      "msg_type": "LDM",
+      "msg_desc": "载重报",
+      "frequency": "",
+      "version": "2",
+      "f_data_source_id": "2",
+      "msg_level": "1",
+      "status": "2",
+      "keyword": "LDM",
+      "f_node_id": "304",
+      "del_flag": "0",
+      "isparsedtwice": "y",
+      "sort": "",
+      "end_keys": "",
+      "create_time": "20170619 16:56:13",
+      "create_user": "1",
+      "update_time": "20171125 14:03:50",
+      "update_user": "1"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+com\ls\springcloud\mapper\EmailMapper.class
+com\ls\springcloud\service\MsgLogService.class
+com\ls\springcloud\mapper\UserMapper.class
+com\ls\springcloud\service\impl\MsgLogServiceImpl.class
+com\ls\springcloud\mapper\MsgLogMapper.class
+com\ls\springcloud\service\impl\UserServiceImpl.class
+com\ls\springcloud\service\impl\EmailServiceImpl.class
+com\ls\springcloud\service\EmailService.class
+com\ls\springcloud\service\UserService.class

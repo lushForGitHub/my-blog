@@ -1,0 +1,41 @@
+2020-05-12 09:47:08.827 INFO [main]com.ls.springcloud.mqpay.MqPayApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-05-12 09:47:11.131 INFO [main]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.template:33 -启用rabbitmq配置
+2020-05-12 09:47:19.099 INFO [main]com.ls.springcloud.mqpay.MqPayApplication.logStarted:61 -Started MqPayApplication in 14.143 seconds (JVM running for 17.535)
+2020-05-12 09:48:36.642 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:43 -消息发送到交换机成功: 消息ID 11100000000000111001111011110100100000000000000000000000
+2020-05-12 09:48:36.704 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:43 -消息发送到交换机成功: 消息ID 11100000000000111001111100000000010000000000000000000000
+2020-05-12 09:48:36.932 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:43 -消息发送到交换机成功: 消息ID 11100000000000111001111101001101100000000000000000000000
+2020-05-12 09:48:37.154 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:43 -消息发送到交换机成功: 消息ID 11100000000000111001111110000000000000000000000000000000
+2020-05-12 09:48:37.279 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:43 -消息发送到交换机成功: 消息ID 11100000000000111001111110100011010000000000000000000000
+2020-05-12 09:55:00.204 INFO [main]com.ls.springcloud.mqpay.MqPayApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-05-12 09:55:02.457 INFO [main]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.template:33 -启用rabbitmq配置
+2020-05-12 09:55:10.271 INFO [main]com.ls.springcloud.mqpay.MqPayApplication.logStarted:61 -Started MqPayApplication in 14.862 seconds (JVM running for 18.298)
+2020-05-12 09:55:30.520 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:43 -消息发送到交换机成功: 消息ID 11100000000001010011001100100101110000000000000000000001
+2020-05-12 09:55:30.520 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:43 -消息发送到交换机成功: 消息ID 11100000000001010011001100100101110000000000000000000000
+2020-05-12 09:55:30.832 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:43 -消息发送到交换机成功: 消息ID 11100000000001010011001101111111110000000000000000000000
+2020-05-12 09:55:31.146 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:43 -消息发送到交换机成功: 消息ID 11100000000001010011001111001110000000000000000000000000
+2020-05-12 09:55:31.208 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:43 -消息发送到交换机成功: 消息ID 11100000000001010011001111011101100000000000000000000000
+2020-05-12 09:55:31.864 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:43 -消息发送到交换机成功: 消息ID 11100000000001010011010001111101110000000000000000000000
+2020-05-12 10:05:24.012 INFO [main]com.ls.springcloud.mqpay.MqPayApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-05-12 10:05:47.283 INFO [main]com.ls.springcloud.mqpay.MqPayApplication.logStarted:61 -Started MqPayApplication in 27.827 seconds (JVM running for 31.256)
+2020-05-12 10:06:42.244 INFO [main]com.ls.springcloud.mqpay.MqPayApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-05-12 10:06:52.647 INFO [main]com.ls.springcloud.mqpay.MqPayApplication.logStarted:61 -Started MqPayApplication in 14.761 seconds (JVM running for 18.044)
+2020-05-12 10:07:05.947 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:42 -消息发送到交换机成功: 消息ID 11100000000001111101101001000110010000000000000000000000
+2020-05-12 10:07:05.962 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:42 -消息发送到交换机成功: 消息ID 11100000000001111101101001000010010000000000000000000000
+2020-05-12 10:07:07.183 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:42 -消息发送到交换机成功: 消息ID 11100000000001111101101110000111010000000000000000000000
+2020-05-12 10:07:07.230 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:42 -消息发送到交换机成功: 消息ID 11100000000001111101101110001011010000000000000000000000
+2020-05-12 10:07:07.245 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:42 -消息发送到交换机成功: 消息ID 11100000000001111101101110001111010000000000000000000000
+2020-05-12 10:07:07.245 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:42 -消息发送到交换机成功: 消息ID 11100000000001111101101110010111000000000000000000000000
+2020-05-12 10:07:07.261 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:42 -消息发送到交换机成功: 消息ID 11100000000001111101101110011010110000000000000000000000
+2020-05-12 10:07:07.277 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:42 -消息发送到交换机成功: 消息ID 11100000000001111101101110010011000000000000000000000000
+2020-05-12 10:07:07.573 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:42 -消息发送到交换机成功: 消息ID 11100000000001111101101111101001000000000000000000000000
+2020-05-12 10:07:07.855 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:42 -消息发送到交换机成功: 消息ID 11100000000001111101110000101111010000000000000000000000
+2020-05-12 10:07:16.008 INFO [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1]com.ls.springcloud.mqpay.consumer.DeadQueueConsumer.consumer:31 -dead message  10s 后 消费消息 "死信队列消息"
+2020-05-12 10:07:16.009 INFO [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1]com.ls.springcloud.mqpay.consumer.DeadQueueConsumer.consumer:31 -dead message  10s 后 消费消息 "死信队列消息"
+2020-05-12 10:07:17.189 INFO [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1]com.ls.springcloud.mqpay.consumer.DeadQueueConsumer.consumer:31 -dead message  10s 后 消费消息 "死信队列消息"
+2020-05-12 10:07:17.212 INFO [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1]com.ls.springcloud.mqpay.consumer.DeadQueueConsumer.consumer:31 -dead message  10s 后 消费消息 "死信队列消息"
+2020-05-12 10:07:17.242 INFO [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1]com.ls.springcloud.mqpay.consumer.DeadQueueConsumer.consumer:31 -dead message  10s 后 消费消息 "死信队列消息"
+2020-05-12 10:07:17.258 INFO [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1]com.ls.springcloud.mqpay.consumer.DeadQueueConsumer.consumer:31 -dead message  10s 后 消费消息 "死信队列消息"
+2020-05-12 10:07:17.267 INFO [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1]com.ls.springcloud.mqpay.consumer.DeadQueueConsumer.consumer:31 -dead message  10s 后 消费消息 "死信队列消息"
+2020-05-12 10:07:17.280 INFO [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1]com.ls.springcloud.mqpay.consumer.DeadQueueConsumer.consumer:31 -dead message  10s 后 消费消息 "死信队列消息"
+2020-05-12 10:07:17.580 INFO [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1]com.ls.springcloud.mqpay.consumer.DeadQueueConsumer.consumer:31 -dead message  10s 后 消费消息 "死信队列消息"
+2020-05-12 10:07:17.857 INFO [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1]com.ls.springcloud.mqpay.consumer.DeadQueueConsumer.consumer:31 -dead message  10s 后 消费消息 "死信队列消息"

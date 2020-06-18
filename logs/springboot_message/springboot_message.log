@@ -1,0 +1,4 @@
+2020-05-12 08:58:23.541 INFO [main]com.ls.springcloud.mqpay.MqPayApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-05-12 08:58:26.070 INFO [main]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.template:33 -启用rabbitmq配置
+2020-05-12 08:58:33.759 INFO [main]com.ls.springcloud.mqpay.MqPayApplication.logStarted:61 -Started MqPayApplication in 14.13 seconds (JVM running for 17.38)
+2020-05-12 08:58:48.986 DEBUG[rabbitConnectionFactory1]com.ls.springcloud.mqpay.config.DeadLetterMqConfig.lambda$template$0:43 -消息发送到交换机成功: 消息ID 11011111111110000011100100010110110000000000000000000000
